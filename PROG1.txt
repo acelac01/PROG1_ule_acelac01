@@ -1,0 +1,20 @@
+1-Fútbol:
+	http://dle.rae.es/?id=IeptqGe
+2-Ordenador:
+	http://dle.rae.es/?id=R9dHZWB
+3-Impresora:
+	http://dle.rae.es/?id=L6zeI9R
+4-Empresa:
+	http://dle.rae.es/?id=EsuT8Fg
+5-Asignatura:
+	http://dle.rae.es/?id=3zpTQdm
+6-Ventana:
+	http://dle.rae.es/?id=bY8XdFW
+7-Inspector:
+	http://dle.rae.es/?id=LmAYK3Q
+8-Coche:
+	http://dle.rae.es/?id=9ZNs7ye|9ZO4sFe
+9-Programar:
+	http://dle.rae.es/?id=UJWsNlv
+10-Universidad:
+	http://dle.rae.es/?id=b6TOjV2
